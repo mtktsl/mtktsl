@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mtktsl
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning computer engineering
+- 🌱 I’m currently studying computer engineering
 - 📫 How to reach me: mtk.007g@gmail.com
 
 <!---
