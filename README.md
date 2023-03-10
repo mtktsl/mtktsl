@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mtktsl
+- 👋 Hi, I’m Metin Tarık Kiki
 - 👀 I’m interested in computer science
 - 🌱 I’m currently studying computer engineering
 - 📫 How to reach me: mtk.007g@gmail.com
