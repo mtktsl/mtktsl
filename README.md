@@ -3,8 +3,9 @@
 - 🌱 I am currently developing iOS mobile applications and SPM packages using Swift and UIKit framework.
 - 👀 I’m interested in computer science.
 - 📫 How to reach me: mtk.007@hotmail.com
-
-- Checkout my latest SPM project:
+<br/>
+- <strong>Checkout my latest SPM project</strong>:
+<br/>
 - https://github.com/mtktsl/GridLayout
 
 <!---
