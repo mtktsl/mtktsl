@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Metin Tarık Kiki
-- 👀 I’m interested in computer science
-- 🌱 I’m currently studying computer engineering
+- 🌱 “I graduated as the top student from the Computer Engineering undergraduate program at Harran University in 2023.”
+- 🌱 I am currently developing iOS mobile applications and SPM packages using Swift and UIKit framework. 
+- 👀 I’m interested in computer science.
 - 📫 How to reach me: mtk.007@hotmail.com
 
 <!---
