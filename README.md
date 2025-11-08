@@ -2,7 +2,7 @@
 - 🌱 I graduated as valedictorian from the Computer Engineering undergraduate program at Harran University in 2023.
 - 🌱 I am currently developing iOS mobile applications and SPM packages using Swift and SwiftUI+UIKit frameworks.
 - 👀 I’m interested in computer science.
-- 📫 How to reach me: mtk.007@hotmail.com
+- 📫 How to reach me: mtk.007g@gmail.com
 <br/>
 <strong>Checkout my latest SPM project</strong>:
 <br/>
