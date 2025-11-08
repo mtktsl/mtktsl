@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Metin Tarık Kiki
 - 🌱 I graduated as valedictorian from the Computer Engineering undergraduate program at Harran University in 2023.
-- 🌱 I am currently developing iOS mobile applications and SPM packages using Swift and UIKit framework.
+- 🌱 I am currently developing iOS mobile applications and SPM packages using Swift and SwiftUI+UIKit frameworks.
 - 👀 I’m interested in computer science.
 - 📫 How to reach me: mtk.007@hotmail.com
 <br/>
-- <strong>Checkout my latest SPM project</strong>:
+<strong>Checkout my latest SPM project</strong>:
 <br/>
-- https://github.com/mtktsl/GridLayout
+- https://github.com/mtktsl/DecKit
 
 <!---
 mtktsl/mtktsl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
